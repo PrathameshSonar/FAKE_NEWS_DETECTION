@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-# Fake News Detection
 
-Fake News Detection in Python
+# Fake News Detection in python with User Interface
 
+A python based ML software program for detecting a FAKE news using numpy, pandas, pickle, sklearn libraries.
 In this project, we have used various natural language processing techniques and machine learning algorithms to classify fake news articles using sci-kit libraries from python. 
 
 ## Getting Started
@@ -13,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them:
 
-1. Python 3.6 
+1. Python 3.8 
    - This setup requires that your machine has python 3.6 installed on it. you can refer to this url https://www.python.org/downloads/ to download python. Once you have python downloaded and installed, you will need to setup PATH variables (if you want to run python program directly, detail instructions are below in *how to run software section*). To do that check this: https://www.pythoncentral.io/add-python-to-path-python-is-not-recognized-as-an-internal-or-external-command/.  
    - Setting up PATH variable is optional as you can also run program without it and more instruction are given below on this topic. 
 2. Second and easier option is to download anaconda and use its anaconda prompt to run the commands. To install anaconda check this url https://www.anaconda.com/download/
@@ -171,6 +170,3 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
     - Once you hit the enter, program will take user input (news headline) and will be used by model to classify in one of  categories of "True" and "False". Along with classifying the news headline, model will also provide a probability of truth associated with it.
 
 =======
-# FAKE_NEWS_DETECTION
-A python based ML software program for detecting a FAKE news using numpy, pandas, pickle, sklearn libraries.
->>>>>>> 88c650d4824d0be9ebda758e5a820cbae2866f93
