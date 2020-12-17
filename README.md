@@ -110,7 +110,7 @@ Below is the learning curves for our candidate models.
 **Random Forest Classifier**
 
 <p align="center">
-  <img width="550" height="450" src="https://github.com/nishitpatel01/Fake_News_Detection/blob/master/images/RF_LCurve.png">
+  <img width="550" height="450" src="https://github.com/PrathameshSonar/FAKE_NEWS_DETECTION/blob/master/images/RF_LCurve.png">
 </p>
 
 ### Next steps
@@ -173,6 +173,7 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
 
 # User Interface Screenshots
 
-![Image of True News](https://PrathameshSonar.github.com/images/true.png)
-![Image of False News](https://PrathameshSonar.github.com/images/false.png)
+<p align="center">
+  <img width="550" height="450" src="https://github.com/PrathameshSonar/FAKE_NEWS_DETECTION/blob/master/images/RF_LCurve.png">
+</p>
 
