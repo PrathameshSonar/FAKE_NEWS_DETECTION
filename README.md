@@ -173,5 +173,6 @@ $ git clone https://github.com/nishitpatel01/Fake_News_Detection.git
 
 # User Interface Screenshots
 
-
+![Image of True News](https://PrathameshSonar.github.com/images/true.png)
+![Image of False News](https://PrathameshSonar.github.com/images/false.png)
 
